@@ -1,0 +1,3 @@
+[submodule "deck_generator"]
+	path = deck_generator
+	url = https://github.com/if-loop69420/deck_generator.git
